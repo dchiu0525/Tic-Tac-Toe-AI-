@@ -1,0 +1,9 @@
+# ninja log v5
+0	421	6907180731810662	CMakeFiles/student-tests.dir/XO.cpp.obj	ec50f87b86e12235
+1	841	6907180148426754	CMakeFiles/student-tests.dir/student_tests.cpp.obj	5ada57822568775c
+0	2173	6610442134057655	CMakeFiles/student-tests.dir/student_catch.cpp.obj	81cbfa37039a9507
+422	544	6907180732840889	student-tests.exe	cdb73c9f07b925a0
+0	304	6907180948696136	CMakeFiles/student-tests.dir/XO.cpp.obj	ec50f87b86e12235
+305	433	6907180949746367	student-tests.exe	cdb73c9f07b925a0
+1	425	6907184259992526	CMakeFiles/student-tests.dir/student_tests.cpp.obj	5ada57822568775c
+425	558	6907184261092773	student-tests.exe	cdb73c9f07b925a0
